@@ -1,11 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Barigbue Nbira.  
-Software Engineer 
-I have a passion for building aesthetically pleasing interfaces , with functionality. My favorite programming language is JavaScript. Currently exploring creative coding; learning how to work WebGL, Three.JS, GSAP, Barba.JS and Content management systems. I have executed ideas into amazing projects, across different industries, that satisfy user needs and business goals. When I’m not coding, I game, read, listen to music or go hangout with my friends.  
+**Hi there, i'm Barigbue Nbira**.  
+**Software Engineer.**
+
+I have a passion for building aesthetically pleasing interfaces, with functionality. My favorite programming language is JavaScript. Currently exploring creative coding; learning how to work with WebGL, Three.JS, GSAP, Barba.JS and Content management systems. I have executed ideas into amazing projects, across different industries, that satisfy user needs and business goals. When I’m not coding, I game, read, listen to music or go hangout with my friends.  
 
 * 🌍  I'm based in Port Harcourt, Nigeria. 
 * ✉️  You can contact me at [barigbuenbira.work@gmail.com](mailto:barigbuenbira.work@gmail.com)
 * 🧠  I'm currently learning Creative coding. 
-* 🤝  I'm open to collaborating on Amazing Web2 and Web3 projects, that gives room for learning and growing. 
+* 🤝  I'm open to collaborating on amazing Web2 and Web3 projects, that gives room for learning and growing. 
 * ⚡  Besides being a software Engineer, I’m a Forex trader.
 
 <a href="https://www.twitter.com/Barigbue_Nbira" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Barigbue_Nbira?logo=twitter&style=for-the-badge&color=f97316&labelColor=000000" /></a>
