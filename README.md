@@ -1,7 +1,8 @@
 **Hi there, i'm Barigbue Nbira**.  
 **Software Engineer.**
 
-I have a passion for building aesthetically pleasing interfaces, with functionality. My favorite programming language is JavaScript. Currently exploring creative coding; learning how to work with WebGL, Three.JS, GSAP, Barba.JS and Content management systems. I have executed ideas into amazing projects, across different industries, that satisfy user needs and business goals. When I’m not coding, I game, read, listen to music or go hangout with my friends.  
+I'm passionate about building aesthetically pleasing interfaces, with functionality in mind. I have executed ideas into amazing projects, across different industries, that satisfy user needs and business goals.
+Currently exploring creative coding; learning how to work with WebGL, Three.JS, GSAP, Barba.JS and Content management systems. When I’m not coding, I game, read, listen to music or go hangout with my friends.  
 
 * 🌍  I'm based in Port Harcourt, Nigeria. 
 * ✉️  You can contact me at [barigbuenbira.work@gmail.com](mailto:barigbuenbira.work@gmail.com)
