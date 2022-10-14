@@ -1,5 +1,5 @@
 **Hi there, i'm Barigbue Nbira**.  
-**Software Engineer.**
+** Front-End Software Engineer.**
 
 I'm passionate about building aesthetically pleasing interfaces, with functionality in mind. I have executed ideas into amazing projects, across different industries, that satisfy user needs and business goals.
 Currently exploring creative coding; learning how to work with WebGL, Three.JS, GSAP, Barba.JS and Content management systems. When I’m not coding, I game, read, listen to music or go hangout with my friends.  
