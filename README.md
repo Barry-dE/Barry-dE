@@ -1,8 +1,6 @@
 **Hi there, i'm Barigbue Nbira**.  
 ** Front-End Software Engineer.**
-
-I'm passionate about building aesthetically pleasing interfaces, with functionality in mind. I have executed ideas into amazing projects, across different industries, that satisfy user needs and business goals.
-Currently exploring creative coding; learning how to work with WebGL, Three.JS, GSAP, Barba.JS and Content management systems. When I’m not coding, I game, read, listen to music or go hangout with my friends.  
+I love planning, designing and implementing user interface systems of software programs, web-based applications and websites. I'm also interested in Web3 and creating mind blowing user experience using WebGL, GSLS, Three.js, GSAP and lots more. I really enjoy the process of bringing ideas to life.
 
 * 🌍  I'm based in Port Harcourt, Nigeria. 
 * ✉️  You can contact me at [barigbuenbira.work@gmail.com](mailto:barigbuenbira.work@gmail.com)
