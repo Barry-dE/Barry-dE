@@ -1,5 +1,4 @@
-**Hi there, I'm Barigbue Nbira**.  
-Front-End Software Engineer.
+Hi, I am Barigbue Nbira, a Software Engineer.
 
 
 I really enjoy the process of bringing ideas to life.
