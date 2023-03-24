@@ -1,4 +1,4 @@
-hello, I am Barigbue Nbira, aslo known as PipScript. I am a Software Developer Based in Port Harcourt, Nigeria.
+Hello, I am Barigbue Nbira, aslo known as PipScript. I am a Software Developer Based in Port Harcourt, Nigeria.
 * 🌍  I'm based in Port Harcourt, Nigeria. 
 * ✉️  You can contact me at [barigbuenbira.work@gmail.com](mailto:barigbuenbira.work@gmail.com)
 * 🤝  I'm open to collaboration. 
