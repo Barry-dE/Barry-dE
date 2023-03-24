@@ -1,16 +1,7 @@
-Hi, I am Barigbue Nbira, a Software Engineer.
-
-
-I really enjoy the process of bringing ideas to life.
-
-My favourite programming language is JavaScript
-
+hello, I am Barigbue Nbira, aslo known as PipScript. I am a Software Developer Based in Port Harcourt, Nigeria.
 * 🌍  I'm based in Port Harcourt, Nigeria. 
 * ✉️  You can contact me at [barigbuenbira.work@gmail.com](mailto:barigbuenbira.work@gmail.com)
-* 🧠  I'm currently learning Creative coding. 
-* 🤝  I'm open to collaborating on amazing Web2 and Web3 projects, that gives room for learning and growing. 
-* ⚡  Besides being a software Engineer, I’m a Forex trader.
-
+* 🤝  I'm open to collaboration. 
 
 
 ### Badges
