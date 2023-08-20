@@ -2,7 +2,8 @@
 I'm interested in:
 - Cloud DevOps
 - Blockchain
-- Web
+- Web (FullStack)
+
 I embrace Agile/Scrum methodologies to deliver high-quality software solutions efficiently. 
 
 ### Badges
