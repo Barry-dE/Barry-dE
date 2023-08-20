@@ -1,8 +1,9 @@
-👋 Hello! I am Barigbue Nbira, I'm a passionate software engineer and technical writer with a deep love for Cloud DevOps, Software Development, and Creative Development. I thrive in dynamic environments where I can merge my technical expertise with my creative mindset.
+👋 Hello! I am Barigbue Nbira, I'm a passionate software engineer and technical writer with a deep love for all things software.
+I'm interested in:
+- Cloud DevOps
+- Blockchain
+- Web
 I embrace Agile/Scrum methodologies to deliver high-quality software solutions efficiently. 
-
-I enjoy collaborating with cross-functional teams, fostering communication, and ensuring seamless integration between development and operations.
-I am fascinated by the potential of Web3 technologies and the decentralized web. 
 
 ### Badges
 
