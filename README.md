@@ -3,6 +3,7 @@ I'm interested in:
 - Cloud DevOps
 - Blockchain
 - Web (FullStack)
+- Mobile (React Native)
 
 I embrace Agile/Scrum methodologies to deliver high-quality software solutions efficiently. 
 
