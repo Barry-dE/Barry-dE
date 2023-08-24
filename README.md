@@ -1,9 +1,8 @@
 👋 Hello! I am Barigbue Nbira, I'm a passionate software engineer and technical writer with a deep love for all things software.
 I'm interested in:
-- Cloud DevOps
+- DevOps
 - Blockchain
-- Web (FullStack)
-- Mobile (React Native)
+- Web(MERN) & Mobile (React Native)
 
 I embrace Agile/Scrum methodologies to deliver high-quality software solutions efficiently. 
 
