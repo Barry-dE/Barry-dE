@@ -2,7 +2,7 @@
 I'm interested in:
 - DevOps
 - Blockchain
-- Web (MERN) & Mobile (React Native)
+- Web 
 
 I embrace Agile/Scrum methodologies to deliver high-quality software solutions efficiently. 
 
