@@ -1,10 +1,11 @@
-👋 Hello! I am Barigbue Nbira, I'm a passionate software engineer and technical writer with a deep love for all things software.
-I'm interested in:
-- DevOps
-- Blockchain
-- Web 
+👋 Hello guys, welcome to my YouTube channel. 
 
-I embrace Agile/Scrum methodologies to deliver high-quality software solutions efficiently. 
+I am Barigbue (also known as PipScript), a DevOps and  Full-Stack Engineer with a fancy for Open Source.
+
+When I am not writing code, you can find me wrting blog posts about things I am learning or find interesting, reading books (especially about programming and productivity), seeking that perfect angle to capture the moment (photography),  or letting my friends show off their FIFA skills while I graciously accept defeat (I suck at FIFA, I know 😂).
+
+I am open to collaborations and remote roles.
+
 
 ### Badges
 
