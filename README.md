@@ -20,7 +20,7 @@ I'm trying to embrace constant learning, and growing. I'm currently working towa
 
 
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently taking a deep dive into DevOps and Web Animations(OGL and Three.js).
+- 🌱 I’m currently taking a deep dive into DevOps and Web Animations (OGL and Three.js).
 - 💬 Ask me about Javascript, DevOps, Technical Writing, and Cooking.😉
 - 💻 Open to remote opportunities
 - ⚡ Open Source(r).
