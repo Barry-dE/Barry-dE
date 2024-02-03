@@ -16,11 +16,11 @@
 
 I love to [write](https://hashnode.com/@pipScript),  and code.
 
-I'm trying to embrace constant learning, and growing. I'm currently working towards becoming a better version of myself.
+I'm currently working towards becoming a better version of myself.
 
 
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently taking a deep dive into DevOps and Web Animation (OGL and Three.js).
+- 🌱 I’m currently taking a deep dive into DevOps, Security, and Web Animation (OGL and Three.js).
 - 💬 Ask me about Javascript, DevOps, Technical Writing, and Cooking.😉
 - ⚡ Open Source(r).
 - 💻 Open to remote opportunities
