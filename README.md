@@ -13,15 +13,15 @@
 </div>
 
 <h3 align="center"> Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Barigbue Nbira </h3>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Barry-dE&theme=onedark" alt="yczar" /></a> </p>
 
 I love to [write](https://hashnode.com/@pipScript),  and code.
 
-I'm currently working towards becoming a better version of myself.
+I am currently working on becoming a better software craftsman.
 
 
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently taking a deep dive into DevOps, Security, and Web Animation (OGL and Three.js).
-- 💬 Ask me about Javascript, DevOps, Technical Writing, and Cooking.😉
 - ⚡ Open Source(r).
 - 💻 Open to remote opportunities
 
@@ -59,4 +59,4 @@ I'm currently working towards becoming a better version of myself.
 
 <!-- BLOG-POST-LIST:START -->
 - [How DNS Works](https://pipscript.hashnode.dev/dns-understanding-how-the-internets-address-book-works#clkw94ver01vv7invbpnt1qav)
-
+- [Sequence Scrolling Animation](https://dev.to/pipscript/creating-a-png-sequence-animation-using-react-and-scss-k71)
