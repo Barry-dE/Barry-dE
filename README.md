@@ -15,14 +15,15 @@
 <h3 align="center"> Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Barigbue Nbira </h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Barry-dE&theme=onedark" alt="yczar" /></a> </p>
 
-I love to [write](https://hashnode.com/@pipScript),  and code.
+Welcome to my little corner.  I am currently learning and playing around with a few technologies. I write, sometimes. 
+
 
 I am currently working on becoming a better software craftsman.
 
 
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently taking a deep dive into DevOps, Security, and Web Animation (OGL and Three.js).
-- ⚡ Open Source(r).
+- 🌱 I’m currently taking a deep dive into DevOps, Security, and Web Animations (OGL and Three.js).
+- ⚡ Finding my way around open source.
 - 💻 Open to remote opportunities
 
 ### :hammer_and_wrench: Languages and Tools
