@@ -18,11 +18,10 @@
 Welcome to my little corner.  I am currently learning and playing around with a few technologies. I write, sometimes. 
 
 
-I am currently working on becoming a better software craftsman.
 
 
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently taking a deep dive into DevOps, Security, and Web Animations (OGL and Three.js).
+- 🌱 I’m currently taking a deep dive into DevOps, and Web Animations (OGL and Three.js).
 - ⚡ Finding my way around open source.
 - 💻 Open to remote opportunities
 
