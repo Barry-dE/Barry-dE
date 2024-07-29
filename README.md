@@ -58,5 +58,6 @@ Welcome to my little corner.  I am currently learning and playing around with a 
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [The Principle of Flow: Improving the Speed of Software Delivery](https://dev.to/pipscript/improving-the-speed-of-software-delivery-from-development-to-end-users-11n4)
 - [How DNS Works](https://pipscript.hashnode.dev/dns-understanding-how-the-internets-address-book-works#clkw94ver01vv7invbpnt1qav)
 - [Sequence Scrolling Animation](https://dev.to/pipscript/creating-a-png-sequence-animation-using-react-and-scss-k71)
