@@ -15,13 +15,11 @@
 <h3 align="center"> Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Barigbue Nbira </h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Barry-dE&theme=onedark" alt="yczar" /></a> </p>
 
-Welcome to my little corner.  I am currently learning and playing around with a few technologies. I write, sometimes. 
-
-
+Welcome to my little corner.  I am a Cloud DevOps Engineer, with an interest in Web animations and web3. I am  currently learning Golang.
 
 
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently taking a deep dive into DevOps, and Web Animations (OGL and Three.js).
+- 🌱Exploring ThreeJS and takinf a deeper dive into K8s
 - ⚡ Finding my way around open source.
 - 💻 Open to remote opportunities
 
