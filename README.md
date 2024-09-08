@@ -16,7 +16,10 @@
 <h2 align="center">  I'm Barigbue Nbira </h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Barry-dE&theme=onedark" alt="yczar" /></a> </p>
 
-A Cloud DevOps Engineer and Developer. I enjoy animating things on the web (maybe a little too much). I am currently learning Golang—a really great language if you ask me—Data Structures and Algorithm, and a little bit of ThreeJs. I am always a work-in-progress. 
+A Cloud DevOps Engineer and Developer. I enjoy animating things on the web (maybe a little too much). Currently learning Golang—a really great language if you ask me—Data Structures and Algorithm, and a little bit of ThreeJs. 
+
+A firm believer in the "Mamba Mentality"—striving to become better at what you do everyday. I always consider myself a work-in-progress. 
+
 - 😄 Pronouns: He/Him
 - ⚡ Finding my way around open source.
 - 💻 Open to remote  opportunities and collaborations
