@@ -12,14 +12,14 @@
     <img src="https://komarev.com/ghpvc/?username=Barry-dE&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h3 align="center"> Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Barigbue Nbira </h3>
+<h1 align="center"> Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  Welcome to my little corner!</h1>
+<h2 align="center"> Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Barigbue Nbira </h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Barry-dE&theme=onedark" alt="yczar" /></a> </p>
 
-Welcome to my little corner! I'm a Cloud DevOps Engineer with an interest in web animations. Currently, I'm diving into Golang and expanding my skill set.
-
+A Cloud DevOps Engineer and Developer. I enjoy animating things on the web (maybe a little too much). I am currently learning Golang—a really great language if you ask me—Data Structures and Algorithm, and a little bit of ThreeJs. I am always a work-in-progress. 
 - 😄 Pronouns: He/Him
 - ⚡ Finding my way around open source.
-- 💻 Open to remote opportunities
+- 💻 Open to remote  opportunities and collaborations
 
 ### :hammer_and_wrench: Languages and Tools
 
