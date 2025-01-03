@@ -17,7 +17,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Barry-dE&theme=onedark" alt="yczar" /></a> </p>
 
 I'm a Cloud DevOps Engineer and Developer who loves animating things on the web—maybe a bit too much. Currently learning Golang (great language by the way), Data Structures and Algorithms, and a little bit of system design.
-I live by the "Mamba Mentality"—always pushing to improve. Every day, I strive to get better at what I do. I'm a work in progress, and that's how I like it. 
+I live by the "Mamba Mentality"—always pushing to improve. Every day, I strive to get better at what I do. I'm a work-in-progress, and that's how I like it. 
 
 - 😄 Pronouns: He/Him
 - ⚡ Finding my way around open source.
