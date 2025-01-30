@@ -45,7 +45,7 @@ I live by the "Mamba Mentality"—always pushing to improve. Every day, I strive
 </div>
 
 ### :fire: GH Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Barry-dE&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?usernameBarry-dE=DenverCoder1)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barry-dE&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
