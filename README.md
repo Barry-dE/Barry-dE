@@ -28,17 +28,17 @@ I live by the "Mamba Mentality"—always pushing to improve. Every day, I strive
 
 <div>
   <!-- Languages -->
-  <p><strong>Languages:</strong> 
+  <p><strong>Languages:</strong></p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/> 
-  </p>
+
 
   <!-- Frameworks & Libraries -->
-  <p><strong>Frameworks & Libraries:</strong> 
+  <p><strong>Frameworks & Libraries:</strong></p> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="Next" width="40" height="40"/> 
-  </p>
+  
 
   <!-- Markup & Styling -->
   <p><strong>Markup & Styling:</strong> 
