@@ -33,7 +33,7 @@ I live by the "Mamba Mentality"—always pushing to improve. Every day, I strive
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/> 
 
-</br>
+<br/>
   <!-- Frameworks & Libraries -->
   <p><strong>Frameworks & Libraries:</strong></p> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/> 
@@ -47,13 +47,13 @@ I live by the "Mamba Mentality"—always pushing to improve. Every day, I strive
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCss" alt="TailwindCss" width="40" height="40"/> 
 
-</br>
+<br/>
   <!-- Databases -->
   <p><strong>Databases:</strong></p> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/> 
   
-</br>
+<br/>
   <!-- Cloud & Infrastructure -->
   <p><strong>Cloud & Infrastructure:</strong></p> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>  
@@ -63,30 +63,30 @@ I live by the "Mamba Mentality"—always pushing to improve. Every day, I strive
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg" title="Helm" alt="Helm" width="40" height="40"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" title="Vagrant" alt="Vagrant" width="40" height="40"/> 
-</br>
+<br/>
 
   <!-- Monitoring & Observability -->
   <p><strong>Monitoring & Observability:</strong></p> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/> 
   
-</br>
+<br/>
   <!-- CI/CD -->
   <p><strong>CI/CD:</strong></p> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-plain.svg" title="GitHub Actions" alt="GitHub Actions" width="40" height="40"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original-wordmark.svg" title="ArgoCD" alt="ArgoCD" width="40" height="40"/> 
   
-</br>
+<br/>
   <!-- Version Control -->
   <p><strong>Version Control:</strong></p> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/> 
-  </br>
+  <br/>
 
   <!-- Configuration Management & Automation -->
   <p><strong>Configuration Management:</strong></p> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="40" height="40"/> 
 
   
-</br>
+<br/>
   <!-- Package Managers -->
   <p><strong>Package Managers:</strong></p> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/> 
