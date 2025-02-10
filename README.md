@@ -41,21 +41,21 @@ I live by the "Mamba Mentality"—always pushing to improve. Every day, I strive
   
 
   <!-- Markup & Styling -->
-  <p><strong>Markup & Styling:</strong> 
+  <p><strong>Markup & Styling:</strong></p> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCss" alt="TailwindCss" width="40" height="40"/> 
-  </p>
+
 
   <!-- Databases -->
-  <p><strong>Databases:</strong> 
+  <p><strong>Databases:</strong></p> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/> 
-  </p>
+  
 
   <!-- Cloud & Infrastructure -->
-  <p><strong>Cloud & Infrastructure:</strong> 
+  <p><strong>Cloud & Infrastructure:</strong></p> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>  
     <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/> 
@@ -63,34 +63,34 @@ I live by the "Mamba Mentality"—always pushing to improve. Every day, I strive
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg" title="Helm" alt="Helm" width="40" height="40"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" title="Vagrant" alt="Vagrant" width="40" height="40"/> 
-  </p>
+
 
   <!-- Monitoring & Observability -->
-  <p><strong>Monitoring & Observability:</strong> 
+  <p><strong>Monitoring & Observability:</strong></p> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/> 
-  </p>
+  
 
   <!-- CI/CD -->
-  <p><strong>CI/CD:</strong> 
+  <p><strong>CI/CD:</strong></p> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-plain.svg" title="GitHub Actions" alt="GitHub Actions" width="40" height="40"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original-wordmark.svg" title="ArgoCD" alt="ArgoCD" width="40" height="40"/> 
-  </p>
+  
 
   <!-- Version Control -->
-  <p><strong>Version Control:</strong> 
+  <p><strong>Version Control:</strong></p> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/> 
-  </p>
+  
 
   <!-- Configuration Management & Automation -->
-  <p><strong>Configuration Management & Automation:</strong> 
+  <p><strong>Configuration Management & Automation:</strong></p> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="40" height="40"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/gnu/makefile.svg" title="Makefile" alt="Makefile" width="40" height="40"/>
-  </p>
+  
 
   <!-- Package Managers -->
-  <p><strong>Package Managers:</strong> 
+  <p><strong>Package Managers:</strong></p> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/> 
-  </p>
+
 </div>
 
 
