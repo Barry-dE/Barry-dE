@@ -16,8 +16,12 @@
 <h2 align="center">  I'm Barigbue Nbira </h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Barry-dE&theme=onedark" alt="yczar" /></a> </p>
 
-I'm a Cloud DevOps Engineer and Developer. I love to animate things on the web—maybe a bit too much. Currently learning Golang (great language by the way), Data Structures and Algorithms, and a little bit of system design.
-I live by the "Mamba Mentality"—always pushing to improve. Every day, I strive to get better at what I do. I'm a work-in-progress, and that's how I like it. 
+I am a software craftsman with an interest in DevOps, Cloud, Finance, and Web Animations. My greatest strengths lie in creative collaboration and my ability to learn quickly.
+
+I enjoy experimenting, failing, and learning. I love exploring new tools, understanding how they work, and discovering which ones are better, often out of curiosity. This continuous exploration helps me enhance my skills and expand my knowledge.
+I'm a work-in-progress, and that's how I like it. 
+
+One of my favourite quotes: "No matter what you do in life, if you want to succeed, you need to do more than be the first one in and the last one out. You need to give it your heart — everything you have."
 
 - 😄 Pronouns: He/Him
 - ⚡ Finding my way around open source.
