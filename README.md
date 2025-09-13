@@ -105,6 +105,8 @@ One of my favourite quotes: "No matter what you do in life, if you want to succe
 ### :fire: GH Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?usernameBarry-dE=DenverCoder1)](https://git.io/streak-stats)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Barry-dE&" alt="Barry-dE" /></p>
+
 
 
 
