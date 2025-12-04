@@ -46,7 +46,7 @@ One of my favourite quotes: "No matter what you do in life, if you want to succe
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg" title="Helm" alt="Helm" width="40" height="40"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/> 
-      <img src="https://https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="Elasticsearch" alt="Elasticsearch" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="Elasticsearch" alt="Elasticsearch" width="40" height="40"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-plain.svg" title="GitHub Actions" alt="GitHub Actions" width="40" height="40"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original-wordmark.svg" title="ArgoCD" alt="ArgoCD" width="40" height="40"/> 
 </div>
