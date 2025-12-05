@@ -32,7 +32,6 @@ Favourite quote: "Passion for your work is a little bit of discovery, followed b
   
 
 ### :hammer_and_wrench: Languages and Tools
-
 <div>
   <div>
     <strong>
@@ -76,33 +75,29 @@ Favourite quote: "Passion for your work is a little bit of discovery, followed b
     <strong>
       <p>IaC:</p>
     </strong>
-    <div>
-      <img
-        src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg"
-        title="Terraform"
-        alt="Terraform"
-        width="40"
-        height="40" />
-    </div>
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg"
+      title="Terraform"
+      alt="Terraform"
+      width="40"
+      height="40" />
   </div>
   <div>
     <strong>
       <p>CI/CD:</p>
     </strong>
-    <div style="display: flex; align-items: center; justify-content: center">
-      <img
-        src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-plain.svg"
-        title="GitHub Actions"
-        alt="GitHub Actions"
-        width="40"
-        height="40" />
-      <img
-        src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original-wordmark.svg"
-        title="ArgoCD"
-        alt="ArgoCD"
-        width="40"
-        height="40" />
-    </div>
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-plain.svg"
+      title="GitHub Actions"
+      alt="GitHub Actions"
+      width="40"
+      height="40" />
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original-wordmark.svg"
+      title="ArgoCD"
+      alt="ArgoCD"
+      width="40"
+      height="40" />
   </div>
   <div>
     <strong>
@@ -213,6 +208,9 @@ Favourite quote: "Passion for your work is a little bit of discovery, followed b
     </div>
   </div>
 </div>
+
+
+
 
 
 ### :fire: GH Stats
