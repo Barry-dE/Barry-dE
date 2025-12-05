@@ -108,16 +108,6 @@ Favourite quote: "Passion for your work is a little bit of discovery, followed b
 </div>
 
 
-
-### :fire: GH Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Barry-dE&" alt="Barry-dE" /></p>
-
-
-
-
-
-[![Baary-dE GitHub stats](https://github-readme-stats.vercel.app/api?username=Barry-dE&count_private=true&show_icons=true&theme=radical&hide_border=true)](#!)
-
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
