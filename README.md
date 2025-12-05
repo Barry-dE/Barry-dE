@@ -27,6 +27,7 @@ Favourite quote: "Passion for your work is a little bit of discovery, followed b
 - 😄 Pronouns: He/Him
 - ⚡ Finding my way around open source.
 - 💻 Open to remote  opportunities and collaborations
+- 📩: barigbuenbira.work2@gmail.com
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barry-dE&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
