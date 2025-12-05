@@ -37,7 +37,7 @@ Favourite quote: "Passion for your work is a little bit of discovery, followed b
   <!-- Languages -->
   <div>
     <strong><p>Languages:</p></strong>
-    <div style="display:flex; align-items:center; gap:20px;">
+    <div style="display:flex; align-items:center; gap:40px;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="60" height="60" />
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60" />
       <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="60" height="60" />
@@ -47,7 +47,7 @@ Favourite quote: "Passion for your work is a little bit of discovery, followed b
   <!-- Cloud -->
   <div>
     <strong><p>Cloud:</p></strong>
-    <div style="display:flex; align-items:center; gap:20px;">
+    <div style="display:flex; align-items:center; gap:40px;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="60" height="60" />
     </div>
   </div>
@@ -55,7 +55,7 @@ Favourite quote: "Passion for your work is a little bit of discovery, followed b
   <!-- IaC -->
   <div>
     <strong><p>IaC:</p></strong>
-    <div style="display:flex; align-items:center; gap:20px;">
+    <div style="display:flex; align-items:center; gap:40px;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40" />
     </div>
   </div>
@@ -63,7 +63,7 @@ Favourite quote: "Passion for your work is a little bit of discovery, followed b
   <!-- CI/CD -->
   <div>
     <strong><p>CI/CD:</p></strong>
-    <div style="display:flex; align-items:center; gap:20px;">
+    <div style="display:flex; align-items:center; gap:40px;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-plain.svg" title="GitHub Actions" alt="GitHub Actions" width="40" height="40" />
       <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original-wordmark.svg" title="ArgoCD" alt="ArgoCD" width="40" height="40" />
     </div>
@@ -72,13 +72,13 @@ Favourite quote: "Passion for your work is a little bit of discovery, followed b
   <!-- Observability -->
   <div>
     <strong><p>Observability:</p></strong>
-    <div style="display:flex; align-items:center; gap:20px;">
+    <div style="display:flex; align-items:center; gap:40px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/newrelic/newrelic-original.svg" title="New Relic" alt="New Relic" width="80" height="80" />
       <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" title="Prometheus" alt="Prometheus" width="60" height="60" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="40" height="40" />
       <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="Elasticsearch" alt="Elasticsearch" width="40" height="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" title="Kibana" alt="Kibana" width="40" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/logstash/logstash-original-wordmark.svg" title="Logstash" alt="Logstash" width="70" height="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/logstash/logstash-original.svg" title="Logstash" alt="Logstash" width="70" height="70" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jaegertracing/jaegertracing-original-wordmark.svg" title="Jaeger" alt="Jaeger" width="40" height="40" />
     </div>
   </div>
@@ -86,7 +86,7 @@ Favourite quote: "Passion for your work is a little bit of discovery, followed b
   <!-- Containerization & Orchestration -->
   <div>
     <strong><p>Containerization & Orchestration Tools:</p></strong>
-    <div style="display:flex; align-items:center; gap:20px;">
+    <div style="display:flex; align-items:center; gap:40px;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40" />
       <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40" />
       <img src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg" title="Helm" alt="Helm" width="40" height="40" />
@@ -96,7 +96,7 @@ Favourite quote: "Passion for your work is a little bit of discovery, followed b
   <!-- Others -->
   <div>
     <strong><p>Others:</p></strong>
-    <div style="display:flex; align-items:center; gap:20px;">
+    <div style="display:flex; align-items:center; gap:40px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40" />
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40" />
       <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" />
