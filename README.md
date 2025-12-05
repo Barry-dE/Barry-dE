@@ -36,7 +36,7 @@ One of my favourite quotes: "No matter what you do in life, if you want to succe
 <div>
   <div>
    <strong><p>Languages:</p></strong>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="60"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/> 
   </div>
@@ -46,6 +46,7 @@ One of my favourite quotes: "No matter what you do in life, if you want to succe
   </div>
    <div>
    <strong><p>Observability:</p></strong>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/newrelic/newrelic-original.svg"  title="Prometheus" alt="Prometheus" width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="Elasticsearch" alt="Elasticsearch" width="40" height="40"/> 
