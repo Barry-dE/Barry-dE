@@ -15,7 +15,9 @@
 <h1 align="center"> Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  Welcome to my little corner!</h1>
 <h2 align="center">  I'm Barigbue Nbira </h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Barry-dE&theme=onedark" alt="yczar" /></a> </p>
-A DevOps engineer with a keen interest in Observability, CI/CD, Security, and  FinOps. I enjoy experimenting, failing, and learning. Exploring new tools, understanding how they work, and discovering which ones are better, often out of curiosity. This has helped me enhance my skills and expand my knowledge. In my free time, I give back to the community by contributing to open source software.
+A DevOps engineer with a keen interest in Observability, CI/CD, Security, and  FinOps. I enjoy experimenting, failing, and learning. Exploring new tools, understanding how they work, and discovering which ones are better, often out of curiosity. This has helped me enhance my skills and expand my knowledge. 
+
+In my free time, I give back to the community by contributing to open source software.
 
 Outside of tech, I'm a part-time financial markets trader and a blogger. I also love fast cars.
 At the core, I’m driven by curiosity and a desire to get better at what I do. I build for fun, learning, and profit.
