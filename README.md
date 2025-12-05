@@ -37,35 +37,39 @@ Favourite quote: "Passion for your work is a little bit of discovery, followed b
     <strong>
       <p>Languages:</p>
     </strong>
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"
-      title="Go"
-      alt="Go"
-      width="60"
-      height="60" />
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
-      title="JavaScript"
-      alt="JavaScript"
-      width="60"
-      height="60" />
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"
-      title="Bash"
-      alt="Bash"
-      width="60"
-      height="60" />
+    <div style="display: flex; align-items: center; justify-content: center">
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"
+        title="Go"
+        alt="Go"
+        width="60"
+        height="60" />
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
+        title="JavaScript"
+        alt="JavaScript"
+        width="60"
+        height="60" />
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"
+        title="Bash"
+        alt="Bash"
+        width="60"
+        height="60" />
+    </div>
   </div>
   <div>
     <strong>
       <p>Cloud:</p>
     </strong>
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-      title="AWS"
-      alt="AWS"
-      width="60"
-      height="60" />
+    <div>
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+        title="AWS"
+        alt="AWS"
+        width="60"
+        height="60" />
+    </div>
   </div>
   <div>
     <strong>
@@ -99,103 +103,109 @@ Favourite quote: "Passion for your work is a little bit of discovery, followed b
     <strong>
       <p>Observability:</p>
     </strong>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/newrelic/newrelic-original.svg"
-      title="New Relic"
-      alt="New Relic"
-      width="80"
-      height="80" />
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg"
-      title="Prometheus"
-      alt="Prometheus"
-      width="60"
-      height="60" />
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg"
-      title="Grafana"
-      alt="Grafana"
-      width="40"
-      height="40" />
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg"
-      title="Elasticsearch"
-      alt="Elasticsearch"
-      width="40"
-      height="40" />
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg"
-      title="Kibana"
-      alt="Kibana"
-      width="40"
-      height="40" />
-    <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/logstash/logstash-original-wordmark.svg"
-    title="Logstach" alt="Logstach" width="60" height="60 />
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jaegertracing/jaegertracing-original-wordmark.svg"
-      title="Jaeger"
-      alt="Jaeger"
-      width="40"
-      height="40" />
+    <div style="display: flex; align-items: center; justify-content: center">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/newrelic/newrelic-original.svg"
+        title="New Relic"
+        alt="New Relic"
+        width="80"
+        height="80" />
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg"
+        title="Prometheus"
+        alt="Prometheus"
+        width="60"
+        height="60" />
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg"
+        title="Grafana"
+        alt="Grafana"
+        width="40"
+        height="40" />
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg"
+        title="Elasticsearch"
+        alt="Elasticsearch"
+        width="40"
+        height="40" />
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg"
+        title="Kibana"
+        alt="Kibana"
+        width="40"
+        height="40" />
+      <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/logstash/logstash-original-wordmark.svg"
+      title="Logstach" alt="Logstach" width="70" height="70 />
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jaegertracing/jaegertracing-original-wordmark.svg"
+        title="Jaeger"
+        alt="Jaeger"
+        width="40"
+        height="40" />
+    </div>
   </div>
   <div>
     <strong>
       <p>Containerization & Orchestration Tools:</p>
     </strong>
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg"
-      title="Kubernetes"
-      alt="Kubernetes"
-      width="40"
-      height="40" />
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"
-      title="Docker"
-      alt="Docker"
-      width="40"
-      height="40" />
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg"
-      title="Helm"
-      alt="Helm"
-      width="40"
-      height="40" />
+    <div style="display: flex; align-items: center; justify-content: center">
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg"
+        title="Kubernetes"
+        alt="Kubernetes"
+        width="40"
+        height="40" />
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"
+        title="Docker"
+        alt="Docker"
+        width="40"
+        height="40" />
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg"
+        title="Helm"
+        alt="Helm"
+        width="40"
+        height="40" />
+    </div>
   </div>
   <div>
     <strong>
       <p>Others:</p>
     </strong>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
-      title="Linux"
-      alt="Linux"
-      width="40"
-      height="40" />
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
-      title="React"
-      alt="React"
-      width="40"
-      height="40" />
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"
-      title="PostgreSQL"
-      alt="PostgreSQL"
-      width="40"
-      height="40" />
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"
-      title="Nginx"
-      alt="Nginx"
-      width="40"
-      height="40" />
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg"
-      title="Redis"
-      alt="Redis"
-      width="40"
-      height="40" />
+    <div style="display: flex; align-items: center; justify-content: center">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+        title="Linux"
+        alt="Linux"
+        width="40"
+        height="40" />
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
+        title="React"
+        alt="React"
+        width="40"
+        height="40" />
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"
+        title="PostgreSQL"
+        alt="PostgreSQL"
+        width="40"
+        height="40" />
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"
+        title="Nginx"
+        alt="Nginx"
+        width="40"
+        height="40" />
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg"
+        title="Redis"
+        alt="Redis"
+        width="40"
+        height="40" />
+    </div>
   </div>
 </div>
 
@@ -204,8 +214,6 @@ Favourite quote: "Passion for your work is a little bit of discovery, followed b
 
 
 ### :fire: GH Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?usernameBarry-dE=DenverCoder1)](https://git.io/streak-stats)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Barry-dE&" alt="Barry-dE" /></p>
 
 
