@@ -15,7 +15,7 @@
 <h1 align="center"> Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  Welcome to my little corner!</h1>
 <h2 align="center">  I'm Barigbue Nbira </h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Barry-dE&theme=onedark" alt="yczar" /></a> </p>
-A DevOps engineer with a keen interest in Observability, CI/CD, Security, and  FinOps. I enjoy experimenting, failing, and learning. Exploring new tools, understanding how they work, and discovering which ones are better, often out of curiosity. This has helped me enhance my skills and expand my knowledge. 
+A DevOps engineer with a focus on Observability, CI/CD, Security, and  FinOps. I enjoy experimenting, failing, and learning, exploring new tools, understanding how they work, and discovering which ones are better, often out of curiosity. This has helped me enhance my skills and expand my knowledge. Lately, I've been exploring MLOps in a bid to understand how machine learning systems are built, deployed, and operated in real production environments. 
 
 In my free time, I give back to the community by contributing to open source software.
 
