@@ -15,18 +15,19 @@
 <h1 align="center"> Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  Welcome to my little corner!</h1>
 <h2 align="center">  I'm Barigbue Nbira </h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Barry-dE&theme=onedark" alt="yczar" /></a> </p>
-A DevOps engineer with a focus on Observability, CI/CD, Security, and  FinOps. I enjoy experimenting, failing, and learning, exploring new tools, understanding how they work, and discovering which ones are better, often out of curiosity. This has helped me enhance my skills and expand my knowledge. Lately, I've been exploring MLOps in a bid to understand how machine learning systems are built, deployed, and operated in real production environments. 
+I build secure infrastructure platforms, CI/CD systems, and observability stacks that shorten the path from code to production. My focus is simple. Help teams ship faster while keeping systems reliable and costs under control.
 
-In my free time, I give back to the community by contributing to open source software.
+I have 4 years of experience across backend engineering and DevOps in EdTech and open source. Most of my work sits at the intersection of infrastructure, automation, and developer workflows.
 
-Outside of tech, I'm a part-time financial markets trader and a blogger. I also love fast cars.
-At the core, I’m driven by curiosity and a desire to get better at what I do. I build for fun, learning, and profit.
+My day-to-day work includes Terraform and GitOps for infrastructure as code, GitHub Actions and ArgoCD for CI/CD. I build observability stacks with OpenTelemetry, Grafana, Prometheus, and New Relic. I also work with Policy as Code to enforce compliance and apply FinOps practices to keep cloud spending visible and accountable. One migration I led cut annual cloud costs by $3,700. I have also built self-service infrastructure platforms from the ground up.
 
-Favourite quote: "Passion for your work is a little bit of discovery, followed by a lot of development, and then a lifetime of deepening." - Angela Duckworth
+Developer experience matters to me as much as system reliability. I spend time shaping internal platform roadmaps, mentoring engineers on DevSecOps practices, and writing about the work so others can understand it and build on it.
 
-- 😄 Pronouns: He/Him
-- ⚡ Finding my way around open source.
-- 💻 Open to remote  opportunities and collaborations
+Outside work, I trade indices and currency pairs as a swing trader. I also train whenever I can.
+
+I enjoy talking about DevOps, cloud infrastructure, and open source.
+
+- 💻 Open to remote DevOps and platform engineering roles.
 - 📩: barigbuenbira.work2@gmail.com
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barry-dE&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
