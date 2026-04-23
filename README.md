@@ -19,7 +19,7 @@ I build secure infrastructure platforms, CI/CD systems, and observability stacks
 
 I have 4 years of experience across backend engineering and DevOps in EdTech and open source. Most of my work sits at the intersection of infrastructure, automation, and developer workflows.
 
-My day-to-day work includes Terraform and GitOps for infrastructure as code, GitHub Actions and ArgoCD for CI/CD. I build observability stacks with OpenTelemetry, Grafana, Prometheus, and New Relic. I also work with Policy as Code to enforce compliance and apply FinOps practices to keep cloud spending visible and accountable. One migration I led cut annual cloud costs by $3,700. I have also built self-service infrastructure platforms from the ground up.
+My day-to-day work includes Terraform and GitOps for infrastructure as code, GitHub Actions and ArgoCD for CI/CD. I build observability stacks with OpenTelemetry, Grafana, Prometheus, and New Relic. I also work with Policy as Code to enforce compliance and apply FinOps practices to keep cloud spending visible and accountable.  I have also built self-service infrastructure platforms from the ground up.
 
 Developer experience matters to me as much as system reliability. I spend time shaping internal platform roadmaps, mentoring engineers on DevSecOps practices, and writing about the work so others can understand it and build on it.
 
